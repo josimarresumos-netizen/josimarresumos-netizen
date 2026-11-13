@@ -9,7 +9,7 @@
 
 ### 🇺🇸 English
 
-I am the technical owner and operator of **[CalcPier.com](https://calcpier.com)**, a live financial platform targeting the US market with over **13,500 static pages**. I specialize in programmatic SEO, large-scale web operations, and AI-assisted workflow orchestration (Claude Code). 
+I am the technical owner and operator of **[CalcPier.com](https://calcpier.com)**, a live financial platform targeting the US market with over **13,500 static pages**. I specialize in programmatic SEO, large-scale web operations, and AI-assisted workflow orchestration. 
 
 **Tech Stack & Tools:**
 - **Web / SSG:** Astro, HTML, TypeScript/JavaScript, Tailwind CSS, React components.
@@ -28,7 +28,7 @@ I am the technical owner and operator of **[CalcPier.com](https://calcpier.com)*
 
 ### 🇧🇷 Português
 
-Sou o responsável técnico e operador da **[CalcPier.com](https://calcpier.com)**, uma plataforma financeira ativa para o mercado americano com mais de **13.500 páginas estáticas**. Sou especialista em SEO programático, operações web em larga escala e orquestração de fluxos de trabalho assistidos por IA (Claude Code).
+Sou o responsável técnico e operador da **[CalcPier.com](https://calcpier.com)**, uma plataforma financeira ativa para o mercado americano com mais de **13.500 páginas estáticas**. Sou especialista em SEO programático, operações web em larga escala e orquestração de fluxos de trabalho assistidos por IA.
 
 **Stack e Ferramentas:**
 - **Web / SSG:** Astro, HTML, TypeScript/JavaScript, Tailwind CSS, componentes React.
